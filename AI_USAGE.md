@@ -1,16 +1,28 @@
-# AI Usage
+AI Usage
 
-## Tools Used
-To be completed with the AI tools actually used.
+Tools Used
 
-## Assistance Received
-- To be documented during development.
+- ChatGPT for project planning, code assistance, debugging, and documentation.
 
-## Code Changes
-- Document the generated code that was reviewed, modified or rejected.
+Assistance Received
 
-## Verification
-- Document how the final implementation was tested.
+- Assistance with Django backend development and frontend integration.
+- Guidance on donation creation, volunteer claims, and cancellation workflows.
+- Help with simulated clock and donation expiry logic.
+- Assistance with README documentation and project setup.
 
-## Human Decisions
-- Document key implementation decisions and why they were made.
+Code Changes
+
+- AI-generated suggestions were reviewed and adapted to the project requirements.
+- Code was modified to integrate the frontend with the backend API.
+- Implementation decisions and changes were reviewed during development.
+
+Verification
+
+- Django system checks were run.
+- The development server was started, and application pages and static assets were checked.
+- Complete testing of all workflows and edge cases remains necessary.
+
+Responsibility
+
+The developer is responsible for reviewing, testing, and validating the final application.
